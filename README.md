@@ -7,4 +7,4 @@
 2. For the innovation pipeline, download the *innovation_module.py* and place in right directory.
 3. For other internal work, please see the completed on notebooks.
 
-**### Due to the non-disclosure aggrement, the granular dataset is not included! ###**
+**<Due to the non-disclosure aggrement, the granular dataset is not included!>**
