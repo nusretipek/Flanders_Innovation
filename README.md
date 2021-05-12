@@ -1,9 +1,10 @@
 # Flanders Innovation
+---
 
 **Detecting Flemish Innovative Companies via Web Scraping**
 
-This repository is created to publicly share supplementary code for my master's thesis.
-For the innovation pipeline, download the *innovation_module.py* and place in right directory.
-Internal work completed on notebooks.
+1. This repository is created to publicly share supplementary code for my master's thesis.
+2. For the innovation pipeline, download the *innovation_module.py* and place in right directory.
+3. For other internal work, please see the completed on notebooks.
 
-** ### Due to the non-disclosure aggrement, the granular dataset is not included! ### **
+**### Due to the non-disclosure aggrement, the granular dataset is not included! ###**
