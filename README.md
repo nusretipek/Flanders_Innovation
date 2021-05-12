@@ -8,6 +8,5 @@
 3. For other internal work, please see the completed on notebooks.
 
 ---
-**Due to the non-disclosure aggrement, the granular dataset is not included!**
-
+**Due to the non-disclosure aggrement, the granular dataset is not included!**  <br /> 
 **Many cell outputs have been truncated due to the sensitive information as well.**
